@@ -1,7 +1,8 @@
 # Using the Austin REPL to connect to your app
 
-This is a minimal-ish example of getting a ClojureScript REPL connected to your
-live app. It's extracted from yesterday's talk at
+This is a minimal-ish example of getting an
+[Austin](https://github.com/cemerick/austin) ClojureScript REPL connected to
+your live app. It's extracted from yesterday's talk at
 [Oslo Socially Functional meetup](http://www.meetup.com/Oslo-Socially-Functional/events/176207202).
 
 ## Usage
